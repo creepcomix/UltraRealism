@@ -1,4 +1,4 @@
-# nerdgirl_arts UltraRealism
+# nerdgirl_art's UltraRealism
 A 512x texture pack aiming to finalize Minecraft's realism.
 
 ### About
