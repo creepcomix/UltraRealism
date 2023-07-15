@@ -1,5 +1,5 @@
 # nerdgirl_art's UltraRealism
-A 512x texture pack aiming to finalize Minecraft's realism.
+A 512x (previously 2048x) texture pack aiming to finalize Minecraft's realism.
 
 ### About
 
