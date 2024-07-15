@@ -1,4 +1,4 @@
-![Thumbnail for UltraRealism](main/thumbnail.png)
+![Thumbnail for UltraRealism](thumbnail.png)
 ### nerdgirl_art’s UltraRealism: A love letter to vanilla with a touch of hyper-realism.
 
 **Immersive Realism:** Experience Minecraft like never before with UltraRealism. Dive into a world where everything is meticulously crafted to bring unparalleled realism to your gameplay.
